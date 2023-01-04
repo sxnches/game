@@ -432,7 +432,7 @@ estadn = true;
 console.log(resivida);
 if (vidavitor <= 15){
   apertef = createSprite (width/2, height/2);
-  apertef.scale=0.4;
+  apertef.scale=0.7;
   apertef.addImage(botaofinal)
 }
 
